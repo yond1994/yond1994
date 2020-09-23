@@ -24,7 +24,7 @@ Además de la programacion, también tengo un canal de youtube puedes encontrar 
 
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-Mongo-informational?style=flat&logo=mongo&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-Mongo-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 
 
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -34,10 +34,6 @@ Además de la programacion, también tengo un canal de youtube puedes encontrar 
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 
-
-
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
