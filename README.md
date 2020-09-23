@@ -8,7 +8,7 @@ Mi nombre es Yonathan suarez y soy full stack web developer. soy un Desarrollado
 
 ## &#x270d; Web, Blog y Youtube. 
 
-Además de la programacion, también tengo un canal de youtube puedes encontrar mis videos en mi canal. [martinheinz.dev](https://martinheinz.dev/) o visitar mi portafolo [Medium](https://medium.com/@martin.heinz) o mi blog [DEV.to](https://dev.to/martinheinz).
+Además de la programacion, también tengo un canal de youtube puedes encontrar mis videos en mi canal [youtube](https://www.youtube.com/channel/UCbLCjrhCC1jl68lxNbSHw0g/) o visitar mi portafolo [heavydeveloper](https://www.heavydeveloper.me/) o mi blog [codigoencasa](https://www.codigoencasa.com/).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -59,9 +59,9 @@ Además de la programacion, también tengo un canal de youtube puedes encontrar 
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://www.youtube.com/channel/UCbLCjrhCC1jl68lxNbSHw0g?view_as=subscriber
+[2]: https://github.com/yond1994
+[3]: https://www.linkedin.com/in/yonathan-suarez-a357a6136/
 
 
 <!-- Resources -->
