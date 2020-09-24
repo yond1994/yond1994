@@ -41,16 +41,16 @@ Además de la programacion, también tengo un canal de youtube puedes encontrar 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yond1994&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
+<!--
 <a href="https://github.com/yond1994/finanzas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yond1994&repo=finanzas&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-
+-->
+<!--
 <a href="https://github.com/leifermendez/sistema-prestamos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leifermendez&repo=sistema-prestamos&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-
+-->
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
