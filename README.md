@@ -8,6 +8,7 @@ Mi nombre es Yonathan suarez y soy full stack web developer. soy un Desarrollado
 
 
 ![](https://img.shields.io/badge/YouTube-2k-informational?style=for-the-badge&logo=youtube&logoColor=white&color=ff0000)[1]
+ [![Youtube][1.2]][1]
 
 ## &#x270d; Web, Blog y Youtube. 
 
