@@ -6,9 +6,8 @@
 
 Mi nombre es Yonathan suarez y soy full stack web developer. soy un Desarrollador web con experiencia en diversos sectores, me gusta adaptarme a los diferentes planes informáticos. Tambien me gustan los buenos retos tecnológicos que exigan lo mejor de mi. Me puedes contactar por [![Twitter][1.2]][1],  o  por [![LinkedIn][3.2]][3].
 
-<a href="https://github.com/yond1994/yond1994">
-![](https://img.shields.io/badge/YouTube-2k-informational?style=for-the-badge&logo=youtube&logoColor=white&color=ff0000)
-</a>
+
+![[1]](https://img.shields.io/badge/YouTube-2k-informational?style=for-the-badge&logo=youtube&logoColor=white&color=ff0000)
 
 ## &#x270d; Web, Blog y Youtube. 
 
