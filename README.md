@@ -6,15 +6,23 @@
 
 Mi nombre es Yonathan suarez y soy full stack web developer. soy un Desarrollador web con experiencia en diversos sectores, me gusta adaptarme a los diferentes planes informáticos. Tambien me gustan los buenos retos tecnológicos que exigan lo mejor de mi. Me puedes contactar por [![Twitter][1.2]][1],  o  por [![LinkedIn][3.2]][3].
 
+<a href="https://github.com/yond1994/yond1994">
+![](https://img.shields.io/badge/YouTube-2k-informational?style=for-the-badge&logo=youtube&logoColor=white&color=ff0000)
+</a>
+
 ## &#x270d; Web, Blog y Youtube. 
 
 Además de la programacion, también tengo un canal de youtube puedes encontrar mis videos en mi canal [youtube](https://www.youtube.com/channel/UCbLCjrhCC1jl68lxNbSHw0g/) o visitar mi portfolio [heavydeveloper](https://www.heavydeveloper.me/) o mi blog [codigoencasa](https://www.codigoencasa.com/).
+
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+
+
 
 ![](https://img.shields.io/badge/Framework-LARAVEL-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-ANGULAR-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
