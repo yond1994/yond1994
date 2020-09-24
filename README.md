@@ -44,13 +44,13 @@ Además de la programacion, también tengo un canal de youtube puedes encontrar 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yond1994&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yonathan's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/https://github.com/yond1994/finanzas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yond1994&repo=finanzas&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/leifermendez/sistema-prestamos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leifermendez&repo=sistema-prestamos&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
