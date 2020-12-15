@@ -12,7 +12,7 @@ Mi nombre es Yonathan suarez y soy full stack web developer. soy un Desarrollado
 
 ## &#x270d; Web, Blog y Youtube. 
 
-Además de la programacion, también tengo un canal de youtube puedes encontrar mis videos en mi canal [youtube](https://www.youtube.com/channel/UCbLCjrhCC1jl68lxNbSHw0g/) o visitar mi portfolio [heavydeveloper](https://www.heavydeveloper.me/) o mi blog [codigoencasa](https://www.codigoencasa.com/).
+Además de la programacion, también tengo un canal de youtube, puedes encontrar mis videos en el canal [youtube](https://www.youtube.com/channel/UCbLCjrhCC1jl68lxNbSHw0g/) o visitar mi portfolio [heavydeveloper](https://www.heavydeveloper.me/) o mi blog [codigoencasa](https://www.codigoencasa.com/).
 
 
 
