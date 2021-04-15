@@ -1,6 +1,6 @@
 
 
-[![Header](https://heavydeveloper.me/fullstackweb.png "Header")](https://www.heavydeveloper.me/)
+
 
 # Hola, gente! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
