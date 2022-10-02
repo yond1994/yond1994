@@ -72,7 +72,7 @@ Además de la programacion, también tengo un canal de youtube, puedes encontrar
 [1.2]: https://i.imgur.com/3ES9n8h.png (youtube icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[3.3]: https://img.shields.io/badge/YouTube-5k-informational?style=for-the-badge&logo=youtube&logoColor=white&color=ff0000
+[3.3]: https://img.shields.io/badge/YouTube-10k-informational?style=for-the-badge&logo=youtube&logoColor=white&color=ff0000
 
 
 <!-- links to your social media accounts -->
